@@ -1,6 +1,4 @@
-# Digital Securities Vault
-
-[TOC]
+# Digital Securities Vault Contracts
 
 This project (Digital Securities Vault) is a **smart contract** developed for the
 EVM (Ethereum Virtual Machine).
